@@ -1,0 +1,1397 @@
+{
+  "startDate": "2025-12-18T23:32:25.617Z",
+  "startingCapital": 100000,
+  "trades": [
+    {
+      "timestamp": "2025-12-19T17:00:18.076Z",
+      "symbol": "NVDA",
+      "action": "buy",
+      "amount": 7000,
+      "shares": 0,
+      "price": 179.85,
+      "reason": "Nancy Pelosi buying $0K. Nancy Pelosi buying - track record of 65-92% annual returns."
+    },
+    {
+      "timestamp": "2025-12-29T17:20:20.659Z",
+      "symbol": "BHVN",
+      "action": "buy",
+      "amount": 7000,
+      "shares": 0,
+      "price": 0,
+      "reason": "4 Insiders (Cluster Buy) (4 executives buying together): C-Suite $33.1M purchase - high conviction"
+    },
+    {
+      "timestamp": "2025-12-29T17:20:21.886Z",
+      "symbol": "CNS",
+      "action": "buy",
+      "amount": 7000,
+      "shares": 0,
+      "price": 0,
+      "reason": "2 Insiders (Cluster Buy) (2 executives buying together): C-Suite $12.8M purchase - high conviction"
+    },
+    {
+      "timestamp": "2025-12-30T16:35:06.694Z",
+      "symbol": "UA",
+      "action": "buy",
+      "amount": 7000,
+      "shares": 0,
+      "price": 0,
+      "reason": "Watsa V Prem Et Al (10%): C-Suite $71.0M purchase - high conviction"
+    },
+    {
+      "timestamp": "2025-12-31T16:20:32.422Z",
+      "symbol": "NVDA",
+      "action": "sell",
+      "amount": 0,
+      "shares": 38.923431939,
+      "price": 0,
+      "reason": "Manual sell: Fake hardcoded data from Nancy Pelosi fallback - corrupting real performance metrics"
+    },
+    {
+      "timestamp": "2026-01-06T16:36:21.150Z",
+      "symbol": "WRB",
+      "action": "buy",
+      "amount": 1575,
+      "shares": 0,
+      "price": 0,
+      "reason": "Mitsui Sumitomo Insurance Co Ltd (10%): C-Suite $47.2M purchase - high conviction"
+    },
+    {
+      "timestamp": "2026-01-12T16:48:16.220Z",
+      "symbol": "TPVG",
+      "action": "buy",
+      "amount": 3375,
+      "shares": 0,
+      "price": 0,
+      "reason": "2 Insiders (Cluster Buy) (2 executives buying together): C-Suite $16.9M purchase - high conviction"
+    },
+    {
+      "timestamp": "2026-01-14T16:35:57.048Z",
+      "symbol": "ALMS",
+      "action": "buy",
+      "amount": 3375,
+      "shares": 0,
+      "price": 0,
+      "reason": "Akkaraju Srinivas (Dir): C-Suite $31.0M purchase - high conviction"
+    },
+    {
+      "timestamp": "2026-02-06T20:49:48.507Z",
+      "symbol": "GME",
+      "action": "buy",
+      "amount": 2250,
+      "shares": 0,
+      "price": 0,
+      "reason": "3 Insiders (Cluster Buy) (3 executives buying together): C-Suite $22.0M purchase - high conviction"
+    }
+  ],
+  "snapshots": [
+    {
+      "timestamp": "2025-12-19T17:00:18.216Z",
+      "equity": 100000.19,
+      "cash": 93000.01,
+      "positions": [
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7000.184617,
+          "currentPrice": 179.845,
+          "unrealizedPL": 0.194617,
+          "unrealizedPLPercent": 0.00278024682892,
+          "costBasis": 6999.99
+        }
+      ],
+      "totalReturn": 0.1900000000023283,
+      "totalReturnPct": 0.0001900000000023283
+    },
+    {
+      "timestamp": "2025-12-22T20:35:00.789Z",
+      "equity": 100135.05,
+      "cash": 93000,
+      "positions": [
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7135.050416,
+          "currentPrice": 183.3099,
+          "unrealizedPL": 135.060416,
+          "unrealizedPLPercent": 1.92943727062467,
+          "costBasis": 6999.99
+        }
+      ],
+      "totalReturn": 135.0500000000029,
+      "totalReturnPct": 0.13505000000000292
+    },
+    {
+      "timestamp": "2025-12-24T06:05:40.222Z",
+      "equity": 100364.7,
+      "cash": 93000,
+      "positions": [
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7364.702557,
+          "currentPrice": 189.21,
+          "unrealizedPL": 364.712557,
+          "unrealizedPLPercent": 5.21018682883833,
+          "costBasis": 6999.99
+        }
+      ],
+      "totalReturn": 364.6999999999971,
+      "totalReturnPct": 0.3646999999999971
+    },
+    {
+      "timestamp": "2025-12-24T16:35:05.454Z",
+      "equity": 100324.61,
+      "cash": 93000,
+      "positions": [
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7324.611422,
+          "currentPrice": 188.18,
+          "unrealizedPL": 324.621422,
+          "unrealizedPLPercent": 4.63745551065073,
+          "costBasis": 6999.99
+        }
+      ],
+      "totalReturn": 324.6100000000006,
+      "totalReturnPct": 0.32461000000000056
+    },
+    {
+      "timestamp": "2025-12-24T19:59:56.999Z",
+      "equity": 100331.23,
+      "cash": 93000,
+      "positions": [
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7331.228406,
+          "currentPrice": 188.35,
+          "unrealizedPL": 331.238406,
+          "unrealizedPLPercent": 4.73198398854856,
+          "costBasis": 6999.99
+        }
+      ],
+      "totalReturn": 331.2299999999959,
+      "totalReturnPct": 0.33122999999999597
+    },
+    {
+      "timestamp": "2025-12-24T20:16:48.421Z",
+      "equity": 100332.4,
+      "cash": 93000,
+      "positions": [
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7332.396109,
+          "currentPrice": 188.38,
+          "unrealizedPL": 332.406109,
+          "unrealizedPLPercent": 4.74866548380783,
+          "costBasis": 6999.99
+        }
+      ],
+      "totalReturn": 332.3999999999942,
+      "totalReturnPct": 0.33239999999999414
+    },
+    {
+      "timestamp": "2025-12-24T20:19:59.722Z",
+      "equity": 100331.23,
+      "cash": 93000,
+      "positions": [
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7331.232298,
+          "currentPrice": 188.3501,
+          "unrealizedPL": 331.242298,
+          "unrealizedPLPercent": 4.7320395886279805,
+          "costBasis": 6999.99
+        }
+      ],
+      "totalReturn": 331.2299999999959,
+      "totalReturnPct": 0.33122999999999597
+    },
+    {
+      "timestamp": "2025-12-25T16:35:06.195Z",
+      "equity": 100341.35,
+      "cash": 93000,
+      "positions": [
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7341.348498,
+          "currentPrice": 188.61,
+          "unrealizedPL": 341.358498,
+          "unrealizedPLPercent": 4.8765569379384806,
+          "costBasis": 6999.99
+        }
+      ],
+      "totalReturn": 341.3500000000058,
+      "totalReturnPct": 0.3413500000000058
+    },
+    {
+      "timestamp": "2025-12-26T16:35:06.633Z",
+      "equity": 100432.82,
+      "cash": 93000,
+      "positions": [
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7432.818563,
+          "currentPrice": 190.96,
+          "unrealizedPL": 432.828563,
+          "unrealizedPLPercent": 6.18327401896288,
+          "costBasis": 6999.99
+        }
+      ],
+      "totalReturn": 432.820000000007,
+      "totalReturnPct": 0.43282000000000703
+    },
+    {
+      "timestamp": "2025-12-29T02:55:47.426Z",
+      "equity": 100416.08,
+      "cash": 93000,
+      "positions": [
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7416.081487,
+          "currentPrice": 190.53,
+          "unrealizedPL": 416.091487,
+          "unrealizedPLPercent": 5.94417259167513,
+          "costBasis": 6999.99
+        }
+      ],
+      "totalReturn": 416.08000000000175,
+      "totalReturnPct": 0.4160800000000017
+    },
+    {
+      "timestamp": "2025-12-29T03:01:51.876Z",
+      "equity": 100416.08,
+      "cash": 93000,
+      "positions": [
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7416.081487,
+          "currentPrice": 190.53,
+          "unrealizedPL": 416.091487,
+          "unrealizedPLPercent": 5.94417259167513,
+          "costBasis": 6999.99
+        }
+      ],
+      "totalReturn": 416.08000000000175,
+      "totalReturnPct": 0.4160800000000017
+    },
+    {
+      "timestamp": "2025-12-29T16:35:06.689Z",
+      "equity": 100284.52,
+      "cash": 93000,
+      "positions": [
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7284.520287,
+          "currentPrice": 187.15,
+          "unrealizedPL": 284.530287,
+          "unrealizedPLPercent": 4.06472419246313,
+          "costBasis": 6999.99
+        }
+      ],
+      "totalReturn": 284.5200000000041,
+      "totalReturnPct": 0.2845200000000041
+    },
+    {
+      "timestamp": "2025-12-29T17:20:22.966Z",
+      "equity": 100250.77,
+      "cash": 79000.03,
+      "positions": [
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 6993.75226,
+          "currentPrice": 11.23,
+          "unrealizedPL": -6.22774,
+          "unrealizedPLPercent": -0.08896796847991,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 6974.806241,
+          "currentPrice": 63.7,
+          "unrealizedPL": -25.183759,
+          "unrealizedPLPercent": -0.35976849966929,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7282.184881,
+          "currentPrice": 187.09,
+          "unrealizedPL": 282.194881,
+          "unrealizedPLPercent": 4.03136120194457,
+          "costBasis": 6999.99
+        }
+      ],
+      "totalReturn": 250.77000000000407,
+      "totalReturnPct": 0.25077000000000405
+    },
+    {
+      "timestamp": "2025-12-30T16:35:07.939Z",
+      "equity": 100451.11,
+      "cash": 72000.05,
+      "positions": [
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 7168.128986,
+          "currentPrice": 11.51,
+          "unrealizedPL": 168.148986,
+          "unrealizedPLPercent": 2.4021352346721,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 6952.90732,
+          "currentPrice": 63.5,
+          "unrealizedPL": -47.08268,
+          "unrealizedPLPercent": -0.67261067515811,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7330.060703,
+          "currentPrice": 188.32,
+          "unrealizedPL": 330.070703,
+          "unrealizedPLPercent": 4.71530249328928,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 6999.96,
+          "currentPrice": 4.86,
+          "unrealizedPL": 0,
+          "unrealizedPLPercent": 0,
+          "costBasis": 6999.96
+        }
+      ],
+      "totalReturn": 451.1100000000006,
+      "totalReturnPct": 0.45111000000000057
+    },
+    {
+      "timestamp": "2025-12-30T20:32:58.058Z",
+      "equity": 100601.48,
+      "cash": 72000.05,
+      "positions": [
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 7183.698336,
+          "currentPrice": 11.535,
+          "unrealizedPL": 183.718336,
+          "unrealizedPLPercent": 2.62455515587187,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 6942.505333,
+          "currentPrice": 63.405,
+          "unrealizedPL": -57.484667,
+          "unrealizedPLPercent": -0.8212107017295699,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7302.425066,
+          "currentPrice": 187.61,
+          "unrealizedPL": 302.435066,
+          "unrealizedPLPercent": 4.320507115010161,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 7172.798519,
+          "currentPrice": 4.98,
+          "unrealizedPL": 172.838519,
+          "unrealizedPLPercent": 2.4691358093474802,
+          "costBasis": 6999.96
+        }
+      ],
+      "totalReturn": 601.4799999999959,
+      "totalReturnPct": 0.6014799999999959
+    },
+    {
+      "timestamp": "2025-12-30T21:22:56.719Z",
+      "equity": 100431.35,
+      "cash": 72000.05,
+      "positions": [
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 7161.901246,
+          "currentPrice": 11.5,
+          "unrealizedPL": 161.921246,
+          "unrealizedPLPercent": 2.31316726619219,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 6922.248831,
+          "currentPrice": 63.22,
+          "unrealizedPL": -77.741169,
+          "unrealizedPLPercent": -1.11058971512816,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "NVDA",
+          "qty": 38.923431939,
+          "avgEntryPrice": 179.84,
+          "marketValue": 7289.580334,
+          "currentPrice": 187.28,
+          "unrealizedPL": 289.590334,
+          "unrealizedPLPercent": 4.137010681443829,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 7057.57284,
+          "currentPrice": 4.9,
+          "unrealizedPL": 57.61284,
+          "unrealizedPLPercent": 0.8230452745444299,
+          "costBasis": 6999.96
+        }
+      ],
+      "totalReturn": 431.3500000000058,
+      "totalReturnPct": 0.43135000000000584
+    },
+    {
+      "timestamp": "2025-12-31T16:23:37.847Z",
+      "equity": 100331.42,
+      "cash": 79343.69,
+      "positions": [
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 7261.545089,
+          "currentPrice": 11.66,
+          "unrealizedPL": 261.565089,
+          "unrealizedPLPercent": 3.73665480472801,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 6847.792501,
+          "currentPrice": 62.54,
+          "unrealizedPL": -152.197499,
+          "unrealizedPLPercent": -2.17425309179013,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 6878.396909,
+          "currentPrice": 4.7756,
+          "unrealizedPL": -121.563091,
+          "unrealizedPLPercent": -1.73662550928862,
+          "costBasis": 6999.96
+        }
+      ],
+      "totalReturn": 331.41999999999825,
+      "totalReturnPct": 0.33141999999999827
+    },
+    {
+      "timestamp": "2025-12-31T16:38:13.991Z",
+      "equity": 100317.94,
+      "cash": 79343.69,
+      "positions": [
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 7261.545089,
+          "currentPrice": 11.66,
+          "unrealizedPL": 261.565089,
+          "unrealizedPLPercent": 3.73665480472801,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 6852.172285,
+          "currentPrice": 62.58,
+          "unrealizedPL": -147.817715,
+          "unrealizedPLPercent": -2.11168465954951,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 6860.536928,
+          "currentPrice": 4.7632,
+          "unrealizedPL": -139.423072,
+          "unrealizedPLPercent": -1.99176955296887,
+          "costBasis": 6999.96
+        }
+      ],
+      "totalReturn": 317.9400000000023,
+      "totalReturnPct": 0.31794000000000233
+    },
+    {
+      "timestamp": "2025-12-31T17:00:07.539Z",
+      "equity": 100333.67,
+      "cash": 79343.69,
+      "positions": [
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 7217.950907,
+          "currentPrice": 11.59,
+          "unrealizedPL": 217.970907,
+          "unrealizedPLPercent": 3.11387899679713,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 6880.093409,
+          "currentPrice": 62.835,
+          "unrealizedPL": -119.896591,
+          "unrealizedPLPercent": -1.7128108897298397,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 6891.935926,
+          "currentPrice": 4.785,
+          "unrealizedPL": -108.024074,
+          "unrealizedPLPercent": -1.543209875485,
+          "costBasis": 6999.96
+        }
+      ],
+      "totalReturn": 333.66999999999825,
+      "totalReturnPct": 0.33366999999999825
+    },
+    {
+      "timestamp": "2026-01-02T17:27:15.061Z",
+      "equity": 100541.42,
+      "cash": 79343.67,
+      "positions": [
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 6838.058754,
+          "currentPrice": 10.98,
+          "unrealizedPL": -161.921246,
+          "unrealizedPLPercent": -2.31316726619219,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 6934.840711,
+          "currentPrice": 63.335,
+          "unrealizedPL": -65.149289,
+          "unrealizedPLPercent": -0.93070545815065,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 7424.854691,
+          "currentPrice": 5.155,
+          "unrealizedPL": 424.894691,
+          "unrealizedPLPercent": 6.06995884262196,
+          "costBasis": 6999.96
+        }
+      ],
+      "totalReturn": 541.4199999999983,
+      "totalReturnPct": 0.5414199999999982
+    },
+    {
+      "timestamp": "2026-01-05T11:39:29.477Z",
+      "equity": 100487.17,
+      "cash": 79343.67,
+      "positions": [
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 6750.870391,
+          "currentPrice": 10.84,
+          "unrealizedPL": -249.109609,
+          "unrealizedPLPercent": -3.5587188677681905,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 6960.571943,
+          "currentPrice": 63.57,
+          "unrealizedPL": -39.418057,
+          "unrealizedPLPercent": -0.56311590445129,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 7432.056296,
+          "currentPrice": 5.16,
+          "unrealizedPL": 432.096296,
+          "unrealizedPLPercent": 6.17283950194001,
+          "costBasis": 6999.96
+        }
+      ],
+      "totalReturn": 487.16999999999825,
+      "totalReturnPct": 0.4871699999999982
+    },
+    {
+      "timestamp": "2026-01-05T16:41:51.694Z",
+      "equity": 100216.32,
+      "cash": 79343.67,
+      "positions": [
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 6358.522758,
+          "currentPrice": 10.21,
+          "unrealizedPL": -641.457242,
+          "unrealizedPLPercent": -9.16370106771734,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 7132.47847,
+          "currentPrice": 65.14,
+          "unrealizedPL": 132.48847,
+          "unrealizedPLPercent": 1.89269513242162,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 7381.645062,
+          "currentPrice": 5.125,
+          "unrealizedPL": 381.685062,
+          "unrealizedPLPercent": 5.452674900999431,
+          "costBasis": 6999.96
+        }
+      ],
+      "totalReturn": 216.32000000000698,
+      "totalReturnPct": 0.216320000000007
+    },
+    {
+      "timestamp": "2026-01-06T16:36:42.617Z",
+      "equity": 99952.09,
+      "cash": 77768.68,
+      "positions": [
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 5897.669982,
+          "currentPrice": 9.47,
+          "unrealizedPL": -1102.310018,
+          "unrealizedPLPercent": -15.74733096380275,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 7171.349054,
+          "currentPrice": 65.495,
+          "unrealizedPL": 171.359054,
+          "unrealizedPLPercent": 2.44798998284283,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 7540.08037,
+          "currentPrice": 5.235,
+          "unrealizedPL": 540.12037,
+          "unrealizedPLPercent": 7.71604937742501,
+          "costBasis": 6999.96
+        },
+        {
+          "symbol": "WRB",
+          "qty": 22.671512883,
+          "avgEntryPrice": 69.47,
+          "marketValue": 1574.309855,
+          "currentPrice": 69.44,
+          "unrealizedPL": -0.680145,
+          "unrealizedPLPercent": -0.04318408370847,
+          "costBasis": 1574.99
+        }
+      ],
+      "totalReturn": -47.91000000000349,
+      "totalReturnPct": -0.04791000000000349
+    },
+    {
+      "timestamp": "2026-01-07T16:42:52.779Z",
+      "equity": 101434.61,
+      "cash": 77768.67,
+      "positions": [
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 6894.606636,
+          "currentPrice": 11.0708,
+          "unrealizedPL": -105.373364,
+          "unrealizedPLPercent": -1.50533807239449,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 7265.722453,
+          "currentPrice": 66.3569,
+          "unrealizedPL": 265.732453,
+          "unrealizedPLPercent": 3.7961833231190303,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 7950.571852,
+          "currentPrice": 5.52,
+          "unrealizedPL": 950.611852,
+          "unrealizedPLPercent": 13.580246915696659,
+          "costBasis": 6999.96
+        },
+        {
+          "symbol": "WRB",
+          "qty": 22.671512883,
+          "avgEntryPrice": 69.47,
+          "marketValue": 1555.039069,
+          "currentPrice": 68.59,
+          "unrealizedPL": -19.950931,
+          "unrealizedPLPercent": -1.26673382053219,
+          "costBasis": 1574.99
+        }
+      ],
+      "totalReturn": 1434.6100000000006,
+      "totalReturnPct": 1.4346100000000006
+    },
+    {
+      "timestamp": "2026-01-08T16:49:16.191Z",
+      "equity": 101735.01,
+      "cash": 77768.67,
+      "positions": [
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 6956.385819,
+          "currentPrice": 11.17,
+          "unrealizedPL": -43.594181,
+          "unrealizedPLPercent": -0.62277579364512,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 7258.397264,
+          "currentPrice": 66.29,
+          "unrealizedPL": 258.407264,
+          "unrealizedPLPercent": 3.69153761648231,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 8166.475968,
+          "currentPrice": 5.6699,
+          "unrealizedPL": 1166.515968,
+          "unrealizedPLPercent": 16.66460905490889,
+          "costBasis": 6999.96
+        },
+        {
+          "symbol": "WRB",
+          "qty": 22.671512883,
+          "avgEntryPrice": 69.47,
+          "marketValue": 1585.078823,
+          "currentPrice": 69.915,
+          "unrealizedPL": 10.088823,
+          "unrealizedPLPercent": 0.64056425755084,
+          "costBasis": 1574.99
+        }
+      ],
+      "totalReturn": 1735.0099999999948,
+      "totalReturnPct": 1.7350099999999948
+    },
+    {
+      "timestamp": "2026-01-13T16:42:44.806Z",
+      "equity": 101312.81,
+      "cash": 74393.67,
+      "positions": [
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 6992.818099,
+          "currentPrice": 11.2285,
+          "unrealizedPL": -7.161901,
+          "unrealizedPLPercent": -0.10231316375190001,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 7381.85243,
+          "currentPrice": 67.4175,
+          "unrealizedPL": 381.86243,
+          "unrealizedPLPercent": 5.455185364550521,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "TPVG",
+          "qty": 509.046757164,
+          "avgEntryPrice": 6.63,
+          "marketValue": 3344.437195,
+          "currentPrice": 6.57,
+          "unrealizedPL": -30.542805,
+          "unrealizedPLPercent": -0.90497736282882,
+          "costBasis": 3374.98
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 7655.306049,
+          "currentPrice": 5.315,
+          "unrealizedPL": 655.346049,
+          "unrealizedPLPercent": 9.36213991222807,
+          "costBasis": 6999.96
+        },
+        {
+          "symbol": "WRB",
+          "qty": 22.671512883,
+          "avgEntryPrice": 69.47,
+          "marketValue": 1544.72353,
+          "currentPrice": 68.135,
+          "unrealizedPL": -30.26647,
+          "unrealizedPLPercent": -1.9216928361449899,
+          "costBasis": 1574.99
+        }
+      ],
+      "totalReturn": 1312.8099999999977,
+      "totalReturnPct": 1.3128099999999976
+    },
+    {
+      "timestamp": "2026-01-14T16:35:58.186Z",
+      "equity": 101722.17,
+      "cash": 71018.68,
+      "positions": [
+        {
+          "symbol": "ALMS",
+          "qty": 140.332224532,
+          "avgEntryPrice": 24.05,
+          "marketValue": 3374.99,
+          "currentPrice": 24.05,
+          "unrealizedPL": 0,
+          "unrealizedPLPercent": 0,
+          "costBasis": 3374.99
+        },
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 7052.915792,
+          "currentPrice": 11.325,
+          "unrealizedPL": 52.935792,
+          "unrealizedPLPercent": 0.75622776065074,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 7575.384141,
+          "currentPrice": 69.185,
+          "unrealizedPL": 575.394141,
+          "unrealizedPLPercent": 8.21992804275435,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "TPVG",
+          "qty": 509.046757164,
+          "avgEntryPrice": 6.63,
+          "marketValue": 3397.887104,
+          "currentPrice": 6.675,
+          "unrealizedPL": 22.907104,
+          "unrealizedPLPercent": 0.67873302952906,
+          "costBasis": 3374.98
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 7727.322099,
+          "currentPrice": 5.365,
+          "unrealizedPL": 727.362099,
+          "unrealizedPLPercent": 10.3909465054086,
+          "costBasis": 6999.96
+        },
+        {
+          "symbol": "WRB",
+          "qty": 22.671512883,
+          "avgEntryPrice": 69.47,
+          "marketValue": 1574.99,
+          "currentPrice": 69.47,
+          "unrealizedPL": 0,
+          "unrealizedPLPercent": 0,
+          "costBasis": 1574.99
+        }
+      ],
+      "totalReturn": 1722.1699999999983,
+      "totalReturnPct": 1.7221699999999982
+    },
+    {
+      "timestamp": "2026-02-05T09:25:53.560Z",
+      "equity": 102464.81,
+      "cash": 71018.67,
+      "positions": [
+        {
+          "symbol": "ALMS",
+          "qty": 140.332224532,
+          "avgEntryPrice": 24.05,
+          "marketValue": 3697.76815,
+          "currentPrice": 26.3501,
+          "unrealizedPL": 322.77815,
+          "unrealizedPLPercent": 9.564,
+          "costBasis": 3374.99
+        },
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 6888.50345,
+          "currentPrice": 11.061,
+          "unrealizedPL": -111.47655,
+          "unrealizedPLPercent": -1.593,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 6893.780235,
+          "currentPrice": 62.96,
+          "unrealizedPL": -106.209765,
+          "unrealizedPLPercent": -1.517,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "TPVG",
+          "qty": 509.046757164,
+          "avgEntryPrice": 6.63,
+          "marketValue": 2998.2854,
+          "currentPrice": 5.89,
+          "unrealizedPL": -376.6946,
+          "unrealizedPLPercent": -11.161,
+          "costBasis": 3374.98
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 9376.48963,
+          "currentPrice": 6.51,
+          "unrealizedPL": 2376.52963,
+          "unrealizedPLPercent": 33.951,
+          "costBasis": 6999.96
+        },
+        {
+          "symbol": "WRB",
+          "qty": 22.671512883,
+          "avgEntryPrice": 69.47,
+          "marketValue": 1591.313489,
+          "currentPrice": 70.19,
+          "unrealizedPL": 16.323489,
+          "unrealizedPLPercent": 1.036,
+          "costBasis": 1574.99
+        }
+      ],
+      "totalReturn": 2464.8099999999977,
+      "totalReturnPct": 2.4648099999999977
+    },
+    {
+      "timestamp": "2026-02-06T20:49:51.021Z",
+      "equity": 103867.6,
+      "cash": 68768.68,
+      "positions": [
+        {
+          "symbol": "ALMS",
+          "qty": 140.332224532,
+          "avgEntryPrice": 24.05,
+          "marketValue": 3718.80395,
+          "currentPrice": 26.5,
+          "unrealizedPL": 343.81395,
+          "unrealizedPLPercent": 10.187,
+          "costBasis": 3374.99
+        },
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 7208.609297,
+          "currentPrice": 11.575,
+          "unrealizedPL": 208.629297,
+          "unrealizedPLPercent": 2.98,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 6884.473193,
+          "currentPrice": 62.875,
+          "unrealizedPL": -115.516807,
+          "unrealizedPLPercent": -1.6500000000000001,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "GME",
+          "qty": 89.9996,
+          "avgEntryPrice": 25,
+          "marketValue": 2247.290012,
+          "currentPrice": 24.97,
+          "unrealizedPL": -2.699988,
+          "unrealizedPLPercent": -0.12,
+          "costBasis": 2249.99
+        },
+        {
+          "symbol": "TPVG",
+          "qty": 509.046757164,
+          "avgEntryPrice": 6.63,
+          "marketValue": 2911.747451,
+          "currentPrice": 5.72,
+          "unrealizedPL": -463.232549,
+          "unrealizedPLPercent": -13.725000000000001,
+          "costBasis": 3374.98
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 10528.74642,
+          "currentPrice": 7.31,
+          "unrealizedPL": 3528.78642,
+          "unrealizedPLPercent": 50.412,
+          "costBasis": 6999.96
+        },
+        {
+          "symbol": "WRB",
+          "qty": 22.671512883,
+          "avgEntryPrice": 69.47,
+          "marketValue": 1599.248519,
+          "currentPrice": 70.54,
+          "unrealizedPL": 24.258519,
+          "unrealizedPLPercent": 1.54,
+          "costBasis": 1574.99
+        }
+      ],
+      "totalReturn": 3867.600000000006,
+      "totalReturnPct": 3.8676000000000057
+    },
+    {
+      "timestamp": "2026-02-06T20:50:49.824Z",
+      "equity": 103860.25,
+      "cash": 68768.68,
+      "positions": [
+        {
+          "symbol": "ALMS",
+          "qty": 140.332224532,
+          "avgEntryPrice": 24.05,
+          "marketValue": 3716.698967,
+          "currentPrice": 26.485,
+          "unrealizedPL": 341.708967,
+          "unrealizedPLPercent": 10.125,
+          "costBasis": 3374.99
+        },
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 7199.267687,
+          "currentPrice": 11.56,
+          "unrealizedPL": 199.287687,
+          "unrealizedPLPercent": 2.847,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 6888.305504,
+          "currentPrice": 62.91,
+          "unrealizedPL": -111.684496,
+          "unrealizedPLPercent": -1.595,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "GME",
+          "qty": 89.9996,
+          "avgEntryPrice": 25,
+          "marketValue": 2246.399016,
+          "currentPrice": 24.9601,
+          "unrealizedPL": -3.590984,
+          "unrealizedPLPercent": -0.16,
+          "costBasis": 2249.99
+        },
+        {
+          "symbol": "TPVG",
+          "qty": 509.046757164,
+          "avgEntryPrice": 6.63,
+          "marketValue": 2904.11175,
+          "currentPrice": 5.705,
+          "unrealizedPL": -470.86825,
+          "unrealizedPLPercent": -13.952,
+          "costBasis": 3374.98
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 10535.948025,
+          "currentPrice": 7.315,
+          "unrealizedPL": 3535.988025,
+          "unrealizedPLPercent": 50.514,
+          "costBasis": 6999.96
+        },
+        {
+          "symbol": "WRB",
+          "qty": 22.671512883,
+          "avgEntryPrice": 69.47,
+          "marketValue": 1600.835525,
+          "currentPrice": 70.61,
+          "unrealizedPL": 25.845525,
+          "unrealizedPLPercent": 1.641,
+          "costBasis": 1574.99
+        }
+      ],
+      "totalReturn": 3860.25,
+      "totalReturnPct": 3.8602499999999997
+    },
+    {
+      "timestamp": "2026-02-06T21:09:45.617Z",
+      "equity": 103874.15,
+      "cash": 68768.68,
+      "positions": [
+        {
+          "symbol": "ALMS",
+          "qty": 140.332224532,
+          "avgEntryPrice": 24.05,
+          "marketValue": 3675.30096,
+          "currentPrice": 26.19,
+          "unrealizedPL": 300.31096,
+          "unrealizedPLPercent": 8.898,
+          "costBasis": 3374.99
+        },
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 7224.178648,
+          "currentPrice": 11.6,
+          "unrealizedPL": 224.198648,
+          "unrealizedPLPercent": 3.2030000000000003,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 6866.406584,
+          "currentPrice": 62.71,
+          "unrealizedPL": -133.583416,
+          "unrealizedPLPercent": -1.908,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "GME",
+          "qty": 89.9996,
+          "avgEntryPrice": 25,
+          "marketValue": 2254.48998,
+          "currentPrice": 25.05,
+          "unrealizedPL": 4.49998,
+          "unrealizedPLPercent": 0.2,
+          "costBasis": 2249.99
+        },
+        {
+          "symbol": "TPVG",
+          "qty": 509.046757164,
+          "avgEntryPrice": 6.63,
+          "marketValue": 2916.837919,
+          "currentPrice": 5.73,
+          "unrealizedPL": -458.142081,
+          "unrealizedPLPercent": -13.575000000000001,
+          "costBasis": 3374.98
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 10571.956049,
+          "currentPrice": 7.34,
+          "unrealizedPL": 3571.996049,
+          "unrealizedPLPercent": 51.029,
+          "costBasis": 6999.96
+        },
+        {
+          "symbol": "WRB",
+          "qty": 22.671512883,
+          "avgEntryPrice": 69.47,
+          "marketValue": 1596.301222,
+          "currentPrice": 70.41,
+          "unrealizedPL": 21.311222,
+          "unrealizedPLPercent": 1.353,
+          "costBasis": 1574.99
+        }
+      ],
+      "totalReturn": 3874.149999999994,
+      "totalReturnPct": 3.8741499999999944
+    },
+    {
+      "timestamp": "2026-02-08T03:12:43.574Z",
+      "equity": 103867.84,
+      "cash": 68768.67,
+      "positions": [
+        {
+          "symbol": "ALMS",
+          "qty": 140.332224532,
+          "avgEntryPrice": 24.05,
+          "marketValue": 3675.30096,
+          "currentPrice": 26.19,
+          "unrealizedPL": 300.31096,
+          "unrealizedPLPercent": 8.898,
+          "costBasis": 3374.99
+        },
+        {
+          "symbol": "BHVN",
+          "qty": 622.774021352,
+          "avgEntryPrice": 11.24,
+          "marketValue": 7224.178648,
+          "currentPrice": 11.6,
+          "unrealizedPL": 224.198648,
+          "unrealizedPLPercent": 3.2030000000000003,
+          "costBasis": 6999.98
+        },
+        {
+          "symbol": "CNS",
+          "qty": 109.494603472,
+          "avgEntryPrice": 63.93,
+          "marketValue": 6866.406584,
+          "currentPrice": 62.71,
+          "unrealizedPL": -133.583416,
+          "unrealizedPLPercent": -1.908,
+          "costBasis": 6999.99
+        },
+        {
+          "symbol": "GME",
+          "qty": 89.9996,
+          "avgEntryPrice": 25,
+          "marketValue": 2248.190008,
+          "currentPrice": 24.98,
+          "unrealizedPL": -1.799992,
+          "unrealizedPLPercent": -0.08,
+          "costBasis": 2249.99
+        },
+        {
+          "symbol": "TPVG",
+          "qty": 509.046757164,
+          "avgEntryPrice": 6.63,
+          "marketValue": 2916.837919,
+          "currentPrice": 5.73,
+          "unrealizedPL": -458.142081,
+          "unrealizedPLPercent": -13.575000000000001,
+          "costBasis": 3374.98
+        },
+        {
+          "symbol": "UA",
+          "qty": 1440.320987654,
+          "avgEntryPrice": 4.86,
+          "marketValue": 10571.956049,
+          "currentPrice": 7.34,
+          "unrealizedPL": 3571.996049,
+          "unrealizedPLPercent": 51.029,
+          "costBasis": 6999.96
+        },
+        {
+          "symbol": "WRB",
+          "qty": 22.671512883,
+          "avgEntryPrice": 69.47,
+          "marketValue": 1596.301222,
+          "currentPrice": 70.41,
+          "unrealizedPL": 21.311222,
+          "unrealizedPLPercent": 1.353,
+          "costBasis": 1574.99
+        }
+      ],
+      "totalReturn": 3867.8399999999965,
+      "totalReturnPct": 3.8678399999999966
+    }
+  ]
+}

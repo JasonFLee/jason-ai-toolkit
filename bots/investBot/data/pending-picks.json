@@ -1,0 +1,38 @@
+[
+  {
+    "ticker": "SHCO",
+    "company": "Soho House & Co Inc.",
+    "score": 1075,
+    "holdPeriod": "6-12 months",
+    "whyBuy": "Popstefanov Gjorgi (Dir): C-Suite $100.0M purchase - high conviction",
+    "confidence": 75,
+    "savedAt": "2026-02-08T03:12:42.931Z"
+  },
+  {
+    "ticker": "MANE",
+    "company": "Veradermics, Inc",
+    "score": 535,
+    "holdPeriod": "6-12 months",
+    "whyBuy": "Longitude Capital Partners V, LLC (10%): C-Suite $43.5M purchase - high conviction",
+    "confidence": 100,
+    "savedAt": "2026-02-08T03:12:42.931Z"
+  },
+  {
+    "ticker": "SONO",
+    "company": "Sonos Inc",
+    "score": 346,
+    "holdPeriod": "6-12 months",
+    "whyBuy": "2 Insiders (Cluster Buy) (2 executives buying together): C-Suite $24.6M purchase - high conviction",
+    "confidence": 100,
+    "savedAt": "2026-02-08T03:12:42.931Z"
+  },
+  {
+    "ticker": "GME",
+    "company": "Gamestop Corp.",
+    "score": 305,
+    "holdPeriod": "6-12 months",
+    "whyBuy": "[SAVED] 3 Insiders (Cluster Buy) (3 executives buying together): C-Suite $22.0M purchase - high conviction",
+    "confidence": 85,
+    "savedAt": "2026-02-08T03:12:42.931Z"
+  }
+]

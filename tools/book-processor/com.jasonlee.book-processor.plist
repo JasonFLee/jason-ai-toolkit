@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+    "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.jasonlee.book-processor</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/jasonlee/codingProjects/book-processor/run_processor.sh</string>
+    </array>
+
+    <!-- Run on computer startup/login -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <!-- Also run every 6 hours to catch new tasks -->
+    <key>StartInterval</key>
+    <integer>21600</integer>
+
+    <key>StandardOutPath</key>
+    <string>/Users/jasonlee/codingProjects/book-processor/logs/stdout.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/jasonlee/codingProjects/book-processor/logs/stderr.log</string>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/jasonlee/codingProjects/book-processor</string>
+
+    <!-- Keep alive and restart on failure -->
+    <key>KeepAlive</key>
+    <false/>
+
+    <key>ProcessType</key>
+    <string>Background</string>
+
+    <!-- Environment variables (if needed) -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
+</dict>
+</plist>

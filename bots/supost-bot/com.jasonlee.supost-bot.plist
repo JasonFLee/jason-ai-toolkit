@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.jasonlee.supost-bot</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/jasonlee/codingProjects/supost-bot/run_bot.sh</string>
+    </array>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>15</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>StartInterval</key>
+    <integer>3600</integer>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/jasonlee/codingProjects/supost-bot/bot_stdout.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/jasonlee/codingProjects/supost-bot/bot_stderr.log</string>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/jasonlee/codingProjects/supost-bot</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+{
+  "preferences": {
+    "quickEntryDictationShortcut": "capslock"
+  },
+  "mcpServers": {
+    "n8n-mcp": {
+      "command": "npx",
+      "args": ["n8n-mcp"],
+      "env": {
+        "MCP_MODE": "stdio",
+        "LOG_LEVEL": "error",
+        "DISABLE_CONSOLE_OUTPUT": "true",
+        "N8N_API_URL": "http://localhost:5678",
+        "N8N_API_KEY": "{{env:N8N_API_KEY}}"
+      }
+    }
+  }
+}

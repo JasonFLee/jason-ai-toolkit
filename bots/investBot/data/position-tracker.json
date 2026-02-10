@@ -1,0 +1,34 @@
+[
+  {
+    "symbol": "WRB",
+    "buyDate": "2026-01-06T16:36:21.147Z",
+    "buyPrice": 69.48,
+    "shares": 22.66839378238342,
+    "reason": "10% owner purchase (institutional) - Mitsui Sumitomo Insurance Co Ltd (10%): C-Suite $47.2M purchase - high conviction",
+    "confidence": 65
+  },
+  {
+    "symbol": "TPVG",
+    "buyDate": "2026-01-12T16:48:16.218Z",
+    "buyPrice": 6.63,
+    "shares": 509.04977375565613,
+    "reason": "2 Insiders (Cluster Buy) (2 executives buying together): C-Suite $16.9M purchase - high conviction",
+    "confidence": 100
+  },
+  {
+    "symbol": "ALMS",
+    "buyDate": "2026-01-14T16:35:57.045Z",
+    "buyPrice": 23.99,
+    "shares": 140.68361817423929,
+    "reason": "Akkaraju Srinivas (Dir): C-Suite $31.0M purchase - high conviction",
+    "confidence": 100
+  },
+  {
+    "symbol": "GME",
+    "buyDate": "2026-02-06T20:49:48.506Z",
+    "buyPrice": 25,
+    "shares": 90,
+    "reason": "3 Insiders (Cluster Buy) (3 executives buying together): C-Suite $22.0M purchase - high conviction",
+    "confidence": 85
+  }
+]

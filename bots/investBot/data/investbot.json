@@ -1,0 +1,546 @@
+{
+  "insider_transactions": [],
+  "congress_transactions": [],
+  "institutional_holdings": [],
+  "convergence_signals": [
+    {
+      "ticker": "NVDA",
+      "companyName": "NVIDIA Corporation",
+      "date": "2025-12-14T05:18:44.238Z",
+      "convergenceScore": 92,
+      "insiderScore": 88,
+      "congressScore": 85,
+      "institutionalScore": 90,
+      "convergenceBonus": 25,
+      "signals": {
+        "insiderBuys": 5,
+        "congressBuys": 3,
+        "institutionalIncreases": 8
+      },
+      "recentBuyers": [
+        {
+          "name": "Jensen Huang",
+          "type": "CEO",
+          "date": "2025-12-14T05:18:44.238Z",
+          "amount": 25000000
+        },
+        {
+          "name": "Nancy Pelosi",
+          "type": "Congress",
+          "date": "2025-12-14T05:18:44.238Z",
+          "amountRange": {
+            "min": 250001,
+            "max": 500000
+          }
+        },
+        {
+          "name": "Colette Kress",
+          "type": "CFO",
+          "date": "2025-12-14T05:18:44.238Z",
+          "amount": 5000000
+        },
+        {
+          "name": "Berkshire Hathaway",
+          "type": "Institution",
+          "date": "2025-12-14T05:18:44.238Z",
+          "amount": 500000000
+        }
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "companyName": "Palantir Technologies",
+      "date": "2025-12-14T05:18:44.238Z",
+      "convergenceScore": 85,
+      "insiderScore": 82,
+      "congressScore": 78,
+      "institutionalScore": 80,
+      "convergenceBonus": 20,
+      "signals": {
+        "insiderBuys": 6,
+        "congressBuys": 4,
+        "institutionalIncreases": 7
+      },
+      "recentBuyers": [
+        {
+          "name": "Alex Karp",
+          "type": "CEO",
+          "date": "2025-12-14T05:18:44.238Z",
+          "amount": 15000000
+        },
+        {
+          "name": "Tommy Tuberville",
+          "type": "Congress",
+          "date": "2025-12-14T05:18:44.238Z",
+          "amountRange": {
+            "min": 100001,
+            "max": 250000
+          }
+        },
+        {
+          "name": "ARK Invest",
+          "type": "Institution",
+          "date": "2025-12-14T05:18:44.238Z",
+          "amount": 200000000
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "companyName": "Meta Platforms Inc",
+      "date": "2025-12-14T05:18:44.238Z",
+      "convergenceScore": 82,
+      "insiderScore": 85,
+      "congressScore": 72,
+      "institutionalScore": 85,
+      "convergenceBonus": 18,
+      "signals": {
+        "insiderBuys": 4,
+        "congressBuys": 2,
+        "institutionalIncreases": 9
+      },
+      "recentBuyers": [
+        {
+          "name": "Mark Zuckerberg",
+          "type": "CEO",
+          "date": "2025-12-14T05:18:44.238Z",
+          "amount": 50000000
+        },
+        {
+          "name": "Vanguard Group",
+          "type": "Institution",
+          "date": "2025-12-14T05:18:44.238Z",
+          "amount": 1500000000
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "companyName": "Tesla Inc",
+      "date": "2025-12-14T05:18:44.238Z",
+      "convergenceScore": 78,
+      "insiderScore": 90,
+      "congressScore": 65,
+      "institutionalScore": 72,
+      "convergenceBonus": 15,
+      "signals": {
+        "insiderBuys": 7,
+        "congressBuys": 2,
+        "institutionalIncreases": 5
+      },
+      "recentBuyers": [
+        {
+          "name": "Elon Musk",
+          "type": "CEO",
+          "date": "2025-12-14T05:18:44.238Z",
+          "amount": 100000000
+        },
+        {
+          "name": "Robyn Denholm",
+          "type": "Director",
+          "date": "2025-12-14T05:18:44.238Z",
+          "amount": 2000000
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "companyName": "Amazon.com Inc",
+      "date": "2025-12-14T05:18:44.238Z",
+      "convergenceScore": 75,
+      "insiderScore": 72,
+      "congressScore": 80,
+      "institutionalScore": 78,
+      "convergenceBonus": 15,
+      "signals": {
+        "insiderBuys": 3,
+        "congressBuys": 3,
+        "institutionalIncreases": 8
+      },
+      "recentBuyers": [
+        {
+          "name": "Andy Jassy",
+          "type": "CEO",
+          "date": "2025-12-14T05:18:44.238Z",
+          "amount": 8000000
+        },
+        {
+          "name": "Dan Sullivan",
+          "type": "Congress",
+          "date": "2025-12-14T05:18:44.238Z",
+          "amountRange": {
+            "min": 50001,
+            "max": 100000
+          }
+        },
+        {
+          "name": "BlackRock",
+          "type": "Institution",
+          "date": "2025-12-14T05:18:44.238Z",
+          "amount": 2000000000
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "companyName": "NVIDIA Corporation",
+      "date": "2025-12-14T05:18:54.180Z",
+      "convergenceScore": 92,
+      "insiderScore": 88,
+      "congressScore": 85,
+      "institutionalScore": 90,
+      "convergenceBonus": 25,
+      "signals": {
+        "insiderBuys": 5,
+        "congressBuys": 3,
+        "institutionalIncreases": 8
+      },
+      "recentBuyers": [
+        {
+          "name": "Jensen Huang",
+          "type": "CEO",
+          "date": "2025-12-14T05:18:54.180Z",
+          "amount": 25000000
+        },
+        {
+          "name": "Nancy Pelosi",
+          "type": "Congress",
+          "date": "2025-12-14T05:18:54.180Z",
+          "amountRange": {
+            "min": 250001,
+            "max": 500000
+          }
+        },
+        {
+          "name": "Colette Kress",
+          "type": "CFO",
+          "date": "2025-12-14T05:18:54.180Z",
+          "amount": 5000000
+        },
+        {
+          "name": "Berkshire Hathaway",
+          "type": "Institution",
+          "date": "2025-12-14T05:18:54.180Z",
+          "amount": 500000000
+        }
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "companyName": "Palantir Technologies",
+      "date": "2025-12-14T05:18:54.180Z",
+      "convergenceScore": 85,
+      "insiderScore": 82,
+      "congressScore": 78,
+      "institutionalScore": 80,
+      "convergenceBonus": 20,
+      "signals": {
+        "insiderBuys": 6,
+        "congressBuys": 4,
+        "institutionalIncreases": 7
+      },
+      "recentBuyers": [
+        {
+          "name": "Alex Karp",
+          "type": "CEO",
+          "date": "2025-12-14T05:18:54.180Z",
+          "amount": 15000000
+        },
+        {
+          "name": "Tommy Tuberville",
+          "type": "Congress",
+          "date": "2025-12-14T05:18:54.180Z",
+          "amountRange": {
+            "min": 100001,
+            "max": 250000
+          }
+        },
+        {
+          "name": "ARK Invest",
+          "type": "Institution",
+          "date": "2025-12-14T05:18:54.180Z",
+          "amount": 200000000
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "companyName": "Meta Platforms Inc",
+      "date": "2025-12-14T05:18:54.180Z",
+      "convergenceScore": 82,
+      "insiderScore": 85,
+      "congressScore": 72,
+      "institutionalScore": 85,
+      "convergenceBonus": 18,
+      "signals": {
+        "insiderBuys": 4,
+        "congressBuys": 2,
+        "institutionalIncreases": 9
+      },
+      "recentBuyers": [
+        {
+          "name": "Mark Zuckerberg",
+          "type": "CEO",
+          "date": "2025-12-14T05:18:54.180Z",
+          "amount": 50000000
+        },
+        {
+          "name": "Vanguard Group",
+          "type": "Institution",
+          "date": "2025-12-14T05:18:54.180Z",
+          "amount": 1500000000
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "companyName": "Tesla Inc",
+      "date": "2025-12-14T05:18:54.180Z",
+      "convergenceScore": 78,
+      "insiderScore": 90,
+      "congressScore": 65,
+      "institutionalScore": 72,
+      "convergenceBonus": 15,
+      "signals": {
+        "insiderBuys": 7,
+        "congressBuys": 2,
+        "institutionalIncreases": 5
+      },
+      "recentBuyers": [
+        {
+          "name": "Elon Musk",
+          "type": "CEO",
+          "date": "2025-12-14T05:18:54.180Z",
+          "amount": 100000000
+        },
+        {
+          "name": "Robyn Denholm",
+          "type": "Director",
+          "date": "2025-12-14T05:18:54.180Z",
+          "amount": 2000000
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "companyName": "Amazon.com Inc",
+      "date": "2025-12-14T05:18:54.180Z",
+      "convergenceScore": 75,
+      "insiderScore": 72,
+      "congressScore": 80,
+      "institutionalScore": 78,
+      "convergenceBonus": 15,
+      "signals": {
+        "insiderBuys": 3,
+        "congressBuys": 3,
+        "institutionalIncreases": 8
+      },
+      "recentBuyers": [
+        {
+          "name": "Andy Jassy",
+          "type": "CEO",
+          "date": "2025-12-14T05:18:54.180Z",
+          "amount": 8000000
+        },
+        {
+          "name": "Dan Sullivan",
+          "type": "Congress",
+          "date": "2025-12-14T05:18:54.180Z",
+          "amountRange": {
+            "min": 50001,
+            "max": 100000
+          }
+        },
+        {
+          "name": "BlackRock",
+          "type": "Institution",
+          "date": "2025-12-14T05:18:54.180Z",
+          "amount": 2000000000
+        }
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "companyName": "NVIDIA Corporation",
+      "date": "2025-12-14T05:20:35.179Z",
+      "convergenceScore": 92,
+      "insiderScore": 88,
+      "congressScore": 85,
+      "institutionalScore": 90,
+      "convergenceBonus": 25,
+      "signals": {
+        "insiderBuys": 5,
+        "congressBuys": 3,
+        "institutionalIncreases": 8
+      },
+      "recentBuyers": [
+        {
+          "name": "Jensen Huang",
+          "type": "CEO",
+          "date": "2025-12-14T05:20:35.179Z",
+          "amount": 25000000
+        },
+        {
+          "name": "Nancy Pelosi",
+          "type": "Congress",
+          "date": "2025-12-14T05:20:35.179Z",
+          "amountRange": {
+            "min": 250001,
+            "max": 500000
+          }
+        },
+        {
+          "name": "Colette Kress",
+          "type": "CFO",
+          "date": "2025-12-14T05:20:35.179Z",
+          "amount": 5000000
+        },
+        {
+          "name": "Berkshire Hathaway",
+          "type": "Institution",
+          "date": "2025-12-14T05:20:35.179Z",
+          "amount": 500000000
+        }
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "companyName": "Palantir Technologies",
+      "date": "2025-12-14T05:20:35.179Z",
+      "convergenceScore": 85,
+      "insiderScore": 82,
+      "congressScore": 78,
+      "institutionalScore": 80,
+      "convergenceBonus": 20,
+      "signals": {
+        "insiderBuys": 6,
+        "congressBuys": 4,
+        "institutionalIncreases": 7
+      },
+      "recentBuyers": [
+        {
+          "name": "Alex Karp",
+          "type": "CEO",
+          "date": "2025-12-14T05:20:35.179Z",
+          "amount": 15000000
+        },
+        {
+          "name": "Tommy Tuberville",
+          "type": "Congress",
+          "date": "2025-12-14T05:20:35.179Z",
+          "amountRange": {
+            "min": 100001,
+            "max": 250000
+          }
+        },
+        {
+          "name": "ARK Invest",
+          "type": "Institution",
+          "date": "2025-12-14T05:20:35.179Z",
+          "amount": 200000000
+        }
+      ]
+    },
+    {
+      "ticker": "META",
+      "companyName": "Meta Platforms Inc",
+      "date": "2025-12-14T05:20:35.179Z",
+      "convergenceScore": 82,
+      "insiderScore": 85,
+      "congressScore": 72,
+      "institutionalScore": 85,
+      "convergenceBonus": 18,
+      "signals": {
+        "insiderBuys": 4,
+        "congressBuys": 2,
+        "institutionalIncreases": 9
+      },
+      "recentBuyers": [
+        {
+          "name": "Mark Zuckerberg",
+          "type": "CEO",
+          "date": "2025-12-14T05:20:35.179Z",
+          "amount": 50000000
+        },
+        {
+          "name": "Vanguard Group",
+          "type": "Institution",
+          "date": "2025-12-14T05:20:35.179Z",
+          "amount": 1500000000
+        }
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "companyName": "Tesla Inc",
+      "date": "2025-12-14T05:20:35.179Z",
+      "convergenceScore": 78,
+      "insiderScore": 90,
+      "congressScore": 65,
+      "institutionalScore": 72,
+      "convergenceBonus": 15,
+      "signals": {
+        "insiderBuys": 7,
+        "congressBuys": 2,
+        "institutionalIncreases": 5
+      },
+      "recentBuyers": [
+        {
+          "name": "Elon Musk",
+          "type": "CEO",
+          "date": "2025-12-14T05:20:35.179Z",
+          "amount": 100000000
+        },
+        {
+          "name": "Robyn Denholm",
+          "type": "Director",
+          "date": "2025-12-14T05:20:35.179Z",
+          "amount": 2000000
+        }
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "companyName": "Amazon.com Inc",
+      "date": "2025-12-14T05:20:35.179Z",
+      "convergenceScore": 75,
+      "insiderScore": 72,
+      "congressScore": 80,
+      "institutionalScore": 78,
+      "convergenceBonus": 15,
+      "signals": {
+        "insiderBuys": 3,
+        "congressBuys": 3,
+        "institutionalIncreases": 8
+      },
+      "recentBuyers": [
+        {
+          "name": "Andy Jassy",
+          "type": "CEO",
+          "date": "2025-12-14T05:20:35.179Z",
+          "amount": 8000000
+        },
+        {
+          "name": "Dan Sullivan",
+          "type": "Congress",
+          "date": "2025-12-14T05:20:35.179Z",
+          "amountRange": {
+            "min": 50001,
+            "max": 100000
+          }
+        },
+        {
+          "name": "BlackRock",
+          "type": "Institution",
+          "date": "2025-12-14T05:20:35.179Z",
+          "amount": 2000000000
+        }
+      ]
+    }
+  ],
+  "stock_prices": {},
+  "metadata": {
+    "lastUpdated": "2025-12-14T05:18:42.530Z",
+    "version": "1.0.0"
+  }
+}
